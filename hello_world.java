@@ -3,5 +3,6 @@ Class A{
 	{
 		System.Out.Println('y');
 		System.out.println('n');
+                break;
 	}
 }
